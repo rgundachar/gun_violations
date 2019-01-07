@@ -1,0 +1,670 @@
+Year,state,city_or_county,KilledCount,InjuredCount
+2018,Alabama,Athens,2,1
+2018,Alabama,Atmore,2,1
+2018,Alabama,Auburn,3,3
+2018,Alabama,Bay Minette,1,3
+2018,Alabama,Bessemer,5,6
+2018,Alabama,Birmingham,27,39
+2018,Alabama,Birmingham (Ensley),2,3
+2018,Alabama,Decatur,3,5
+2018,Alabama,Dothan,1,8
+2018,Alabama,Eutaw,1,4
+2018,Alabama,Fairfield,3,3
+2018,Alabama,Fort Mitchell,1,2
+2018,Alabama,Gadsden,5,4
+2018,Alabama,Hayneville,1,1
+2018,Alabama,Huntsville,8,18
+2018,Alabama,Hurtsboro,2,2
+2018,Alabama,Mobile,8,26
+2018,Alabama,Mobile (Prichard),1,2
+2018,Alabama,Montgomery,11,18
+2018,Alabama,Opelika,3,3
+2018,Alabama,Phenix City,2,1
+2018,Alabama,Selma,3,1
+2018,Alabama,Theodore,1,1
+2018,Alabama,Trussville,1,1
+2018,Alabama,Tuscaloosa,2,11
+2018,Alabama,Union Springs,1,5
+2018,Alabama,Warrior,1,1
+2018,Alaska,Anchorage,5,11
+2018,Arizona,Casa Grande,2,1
+2018,Arizona,Florence,1,1
+2018,Arizona,Glendale,6,6
+2018,Arizona,Kingman,1,2
+2018,Arizona,Laveen,1,1
+2018,Arizona,Mesa,6,3
+2018,Arizona,Phoenix,28,30
+2018,Arizona,Scottsdale,4,2
+2018,Arizona,Somerton,2,3
+2018,Arizona,Tolleson,1,1
+2018,Arizona,Tucson,16,14
+2018,Arkansas,Brinkley,1,3
+2018,Arkansas,Conway,1,1
+2018,Arkansas,Fayetteville,1,2
+2018,Arkansas,Fort Smith,1,3
+2018,Arkansas,Helena,1,1
+2018,Arkansas,Hot Springs National Park (Hot Springs),2,3
+2018,Arkansas,Little Rock,9,34
+2018,Arkansas,North Little Rock,7,7
+2018,Arkansas,Pine Bluff,3,3
+2018,Arkansas,Stuttgart,1,1
+2018,Arkansas,Texarkana,1,1
+2018,Arkansas,West Memphis,2,1
+2018,California,Antioch,2,1
+2018,California,Apple Valley,1,2
+2018,California,Arvin,1,1
+2018,California,Bakersfield,9,16
+2018,California,Banning,2,2
+2018,California,Bell,1,1
+2018,California,Bellflower,3,1
+2018,California,Coarsegold,1,1
+2018,California,Daly City,2,2
+2018,California,Delano,3,1
+2018,California,Desert Hot Springs,1,2
+2018,California,El Cajon,2,2
+2018,California,Empire,1,2
+2018,California,Fremont,2,5
+2018,California,Fresno,9,35
+2018,California,Half Moon Bay,2,1
+2018,California,Hemet,1,3
+2018,California,Hesperia,1,5
+2018,California,Inglewood,2,2
+2018,California,Long Beach,5,10
+2018,California,Los Angeles,24,25
+2018,California,Los Angeles (East Los Angeles),2,1
+2018,California,Los Banos,1,1
+2018,California,Madera,1,3
+2018,California,Marysville (Linda),1,1
+2018,California,Merced,2,1
+2018,California,Modesto,1,11
+2018,California,Moreno Valley,2,1
+2018,California,Nevada City,1,1
+2018,California,North Hollywood,2,2
+2018,California,Norwalk,2,4
+2018,California,Oakland,16,44
+2018,California,Olivehurst,2,2
+2018,California,Orange,2,1
+2018,California,Oroville,2,2
+2018,California,Oxnard,1,7
+2018,California,Pacoima,2,1
+2018,California,Pittsburg,1,1
+2018,California,Planada,2,2
+2018,California,Pomona,2,2
+2018,California,Ramona,1,1
+2018,California,Riverside (Jurupa Valley),2,1
+2018,California,Sacramento,12,9
+2018,California,Salinas,6,4
+2018,California,San Bernardino,7,5
+2018,California,San Diego,6,10
+2018,California,San Francisco,8,22
+2018,California,San Jacinto,2,2
+2018,California,San Jose,4,6
+2018,California,Santa Ana,3,5
+2018,California,Santa Barbara,2,1
+2018,California,Santa Maria,2,1
+2018,California,Santa Rosa,2,10
+2018,California,Spring Valley,1,1
+2018,California,Stockton,5,5
+2018,California,Sylmar,1,1
+2018,California,Thousand Oaks,1,1
+2018,California,Torrance,1,1
+2018,California,Tracy,2,1
+2018,California,Tulare,1,1
+2018,California,Vallejo,2,1
+2018,California,Victorville,1,3
+2018,California,Whittier,5,5
+2018,California,Wilmington,3,1
+2018,Colorado,Aurora,4,6
+2018,Colorado,Colorado Springs,9,27
+2018,Colorado,Denver,24,20
+2018,Colorado,Fort Collins,1,2
+2018,Colorado,Grand Junction,2,4
+2018,Colorado,Greeley,1,3
+2018,Colorado,Pueblo,2,2
+2018,Colorado,Thornton,1,2
+2018,Colorado,Westminster,4,2
+2018,Colorado,Wheat Ridge,1,1
+2018,Connecticut,Bridgeport,3,20
+2018,Connecticut,East Hartford,1,1
+2018,Connecticut,Hartford,3,15
+2018,Connecticut,New Haven,2,6
+2018,Connecticut,Waterbury,2,6
+2018,Delaware,Middletown,1,4
+2018,Delaware,Wilmington,5,16
+2018,District of Columbia,Washington,25,61
+2018,Florida,Alachua,1,5
+2018,Florida,Altamonte Springs,1,2
+2018,Florida,Apopka,1,1
+2018,Florida,Boynton Beach,1,7
+2018,Florida,Bradenton,2,8
+2018,Florida,Brooksville,5,1
+2018,Florida,Clearwater,1,1
+2018,Florida,Daytona Beach,2,6
+2018,Florida,Deltona,1,3
+2018,Florida,Edgewater,1,1
+2018,Florida,Eustis,2,2
+2018,Florida,Fort Lauderdale,5,2
+2018,Florida,Fort Lauderdale (Lauderhill),5,2
+2018,Florida,Fort Lauderdale (Sunrise),1,2
+2018,Florida,Fort Myers,5,14
+2018,Florida,Fort Pierce,2,3
+2018,Florida,Gainesville,2,4
+2018,Florida,Gulf Breeze,1,1
+2018,Florida,Haines City,1,1
+2018,Florida,Hialeah,1,1
+2018,Florida,Hollywood (Miramar),1,1
+2018,Florida,Homestead,1,1
+2018,Florida,Homestead (Florida City),1,1
+2018,Florida,Homosassa,2,2
+2018,Florida,Jacksonville,27,36
+2018,Florida,Kissimmee,5,1
+2018,Florida,Lake Worth (Lantana),3,3
+2018,Florida,Lakeland,2,2
+2018,Florida,Macclenny,1,4
+2018,Florida,Madison,1,1
+2018,Florida,Marianna,2,1
+2018,Florida,Miami,21,25
+2018,Florida,Miami Gardens,1,8
+2018,Florida,Ocala,11,16
+2018,Florida,Orlando,24,39
+2018,Florida,Palatka,1,1
+2018,Florida,Palm Beach Gardens (Riviera Beach),2,7
+2018,Florida,Palmetto,2,5
+2018,Florida,Pensacola,3,5
+2018,Florida,Pinellas Park,1,1
+2018,Florida,Plant City,2,1
+2018,Florida,Pompano Beach (Parkland),17,17
+2018,Florida,Port Saint Lucie,2,1
+2018,Florida,Ruskin,2,1
+2018,Florida,Saint Augustine,2,1
+2018,Florida,Saint Petersburg,1,1
+2018,Florida,Sanford,1,3
+2018,Florida,Sarasota,2,3
+2018,Florida,Tallahassee,2,9
+2018,Florida,Tampa,6,16
+2018,Florida,Tarpon Springs,1,1
+2018,Florida,Titusville,3,3
+2018,Florida,Vero Beach,4,2
+2018,Florida,West Palm Beach,11,9
+2018,Florida,Winter Garden,1,1
+2018,Florida,Winter Springs,1,1
+2018,Georgia,Albany,1,6
+2018,Georgia,Americus,1,2
+2018,Georgia,Athens,1,7
+2018,Georgia,Atlanta,16,40
+2018,Georgia,Atlanta (Chamblee),1,2
+2018,Georgia,Augusta,1,8
+2018,Georgia,Brunswick,3,4
+2018,Georgia,Byromville,3,1
+2018,Georgia,Columbus,9,23
+2018,Georgia,Decatur,9,8
+2018,Georgia,Douglasville,1,1
+2018,Georgia,Eatonton,2,4
+2018,Georgia,Fort Valley,1,1
+2018,Georgia,Gray,1,1
+2018,Georgia,Hephzibah,1,3
+2018,Georgia,Jonesboro,2,1
+2018,Georgia,Kennesaw,1,2
+2018,Georgia,Lagrange,1,3
+2018,Georgia,Lawrenceville,3,1
+2018,Georgia,Lithonia,4,3
+2018,Georgia,Locust Grove,2,2
+2018,Georgia,Macon,6,25
+2018,Georgia,Moultrie,1,2
+2018,Georgia,Norcross,2,1
+2018,Georgia,Rome,1,1
+2018,Georgia,Savannah,9,7
+2018,Georgia,Tennille,1,1
+2018,Georgia,Tifton,1,1
+2018,Georgia,Tucker,1,1
+2018,Georgia,Twin City,1,1
+2018,Georgia,Warner Robins,3,5
+2018,Idaho,Boise,1,1
+2018,Idaho,Caldwell,1,1
+2018,Idaho,Coeur D Alene (Coeur D'alene),2,1
+2018,Idaho,Nampa,3,1
+2018,Idaho,Sandpoint,1,2
+2018,Illinois,Alton,2,3
+2018,Illinois,Aurora,1,3
+2018,Illinois,Bellwood,1,2
+2018,Illinois,Carbondale,1,3
+2018,Illinois,Champaign,3,6
+2018,Illinois,Chicago,87,432
+2018,Illinois,Danville,1,4
+2018,Illinois,Decatur,1,1
+2018,Illinois,Dolton,1,3
+2018,Illinois,East Saint Louis,4,4
+2018,Illinois,Elgin,1,1
+2018,Illinois,Georgetown,1,1
+2018,Illinois,Harvey,1,14
+2018,Illinois,Joliet,2,2
+2018,Illinois,Kankakee,2,2
+2018,Illinois,Maywood,2,3
+2018,Illinois,Montgomery,1,1
+2018,Illinois,Peoria,3,9
+2018,Illinois,Rockford,3,23
+2018,Illinois,Springfield,3,3
+2018,Illinois,Taylorville,1,3
+2018,Illinois,Waukegan,1,1
+2018,Illinois,Zion,2,2
+2018,Indiana,Bloomington,1,3
+2018,Indiana,East Chicago,1,1
+2018,Indiana,Evansville,6,8
+2018,Indiana,Fort Wayne,6,21
+2018,Indiana,Gary,14,11
+2018,Indiana,Hammond,1,1
+2018,Indiana,Indianapolis,28,37
+2018,Indiana,Jonesboro,1,1
+2018,Indiana,Lafayette,3,2
+2018,Indiana,Lebanon,1,1
+2018,Indiana,South Bend,6,23
+2018,Indiana,Terre Haute,3,1
+2018,Iowa,Cedar Rapids,2,5
+2018,Iowa,Davenport,2,6
+2018,Iowa,Des Moines,1,11
+2018,Iowa,Newton,1,1
+2018,Kansas,Junction City,2,1
+2018,Kansas,Kansas City,8,10
+2018,Kansas,Salina,1,1
+2018,Kansas,Topeka,5,13
+2018,Kansas,Wichita,11,17
+2018,Kentucky,Benton,2,14
+2018,Kentucky,Bowling Green,1,6
+2018,Kentucky,Corbin,4,1
+2018,Kentucky,Elizabethtown,3,1
+2018,Kentucky,Georgetown,1,1
+2018,Kentucky,Lexington,8,19
+2018,Kentucky,London,3,1
+2018,Kentucky,Louisville,24,54
+2018,Kentucky,Owensboro,1,1
+2018,Louisiana,Baton Rouge,24,32
+2018,Louisiana,Bogalusa,1,1
+2018,Louisiana,Harvey,1,4
+2018,Louisiana,Houma,1,1
+2018,Louisiana,Jeanerette,1,1
+2018,Louisiana,Kenner,2,4
+2018,Louisiana,La Place (Laplace),1,1
+2018,Louisiana,Lafayette,3,9
+2018,Louisiana,Maringouin,1,1
+2018,Louisiana,Marion,1,1
+2018,Louisiana,Marrero,1,6
+2018,Louisiana,Metairie,2,2
+2018,Louisiana,Monroe,3,3
+2018,Louisiana,Morgan City,1,2
+2018,Louisiana,Natchitoches,1,1
+2018,Louisiana,New Iberia,5,7
+2018,Louisiana,New Orleans,45,82
+2018,Louisiana,New Orleans (Algiers),1,2
+2018,Louisiana,New Orleans (River Ridge),1,1
+2018,Louisiana,Opelousas,1,2
+2018,Louisiana,Rayne,1,5
+2018,Louisiana,Shreveport,3,29
+2018,Louisiana,Slidell,2,1
+2018,Louisiana,Tallulah,1,3
+2018,Louisiana,Thibodaux,1,4
+2018,Louisiana,West Monroe,1,3
+2018,Louisiana,Zachary,2,1
+2018,Maryland,Baltimore,47,122
+2018,Maryland,Bowie,1,1
+2018,Maryland,Burtonsville,2,1
+2018,Maryland,Cambridge,1,1
+2018,Maryland,Capitol Heights,2,1
+2018,Maryland,Crisfield,1,1
+2018,Maryland,Edgewood,1,1
+2018,Maryland,Great Mills,2,1
+2018,Maryland,Hagerstown,1,2
+2018,Maryland,Hyattsville,2,2
+2018,Maryland,Little Orleans,1,2
+2018,Maryland,Severn,1,1
+2018,Maryland,Waldorf,2,2
+2018,Massachusetts,Boston,11,31
+2018,Massachusetts,Brockton,1,3
+2018,Massachusetts,Fall River,1,2
+2018,Massachusetts,Hyannis,1,1
+2018,Massachusetts,Lowell,2,1
+2018,Massachusetts,Springfield,1,16
+2018,Michigan,Battle Creek,2,2
+2018,Michigan,Bay City,3,1
+2018,Michigan,Blanchard,1,1
+2018,Michigan,Charter Twp Of Clinton,1,2
+2018,Michigan,Detroit,40,101
+2018,Michigan,Flint,9,11
+2018,Michigan,Grand Rapids,4,3
+2018,Michigan,Inkster,2,1
+2018,Michigan,Jackson,1,2
+2018,Michigan,Lansing,3,6
+2018,Michigan,Lowell,2,1
+2018,Michigan,Mancelona,1,1
+2018,Michigan,Muskegon,1,2
+2018,Michigan,Pontiac,6,3
+2018,Michigan,Redford Charter Township,1,1
+2018,Michigan,Rochester (Rochester Hills),1,1
+2018,Michigan,Saginaw,3,11
+2018,Michigan,Taylor,2,1
+2018,Michigan,Union City,1,2
+2018,Michigan,Ypsilanti,2,2
+2018,Minnesota,Baxter,1,1
+2018,Minnesota,Inver Grove Heights,1,1
+2018,Minnesota,Minneapolis,8,24
+2018,Minnesota,Minneapolis (Brooklyn Center),1,1
+2018,Minnesota,Rochester,2,1
+2018,Minnesota,Saint Paul,5,19
+2018,Minnesota,Sauk Rapids,1,1
+2018,Mississippi,Aberdeen,1,2
+2018,Mississippi,Carthage,1,1
+2018,Mississippi,Collins,1,1
+2018,Mississippi,Crystal Springs,1,2
+2018,Mississippi,Diberville,1,1
+2018,Mississippi,Edwards,1,1
+2018,Mississippi,Enterprise,1,1
+2018,Mississippi,Gautier,2,1
+2018,Mississippi,Greenville,1,4
+2018,Mississippi,Gulfport,4,4
+2018,Mississippi,Hattiesburg,1,7
+2018,Mississippi,Heidelberg,1,1
+2018,Mississippi,Jackson,23,31
+2018,Mississippi,Meridian,2,6
+2018,Mississippi,Mooreville,1,2
+2018,Mississippi,Moss Point,4,7
+2018,Mississippi,Natchez,4,9
+2018,Mississippi,Olive Branch,1,2
+2018,Mississippi,Oxford,2,2
+2018,Mississippi,Pearl,1,1
+2018,Mississippi,Prentiss,1,1
+2018,Mississippi,Richland,2,1
+2018,Mississippi,Starkville,1,2
+2018,Mississippi,Tunica,1,1
+2018,Mississippi,Vicksburg,2,4
+2018,Missouri,Cape Girardeau,4,2
+2018,Missouri,Clinton,2,2
+2018,Missouri,Columbia,1,4
+2018,Missouri,Florissant,4,5
+2018,Missouri,Independence,4,5
+2018,Missouri,Jefferson City,2,2
+2018,Missouri,Joplin,2,1
+2018,Missouri,Kansas City,27,37
+2018,Missouri,Miami,1,1
+2018,Missouri,Pacific,1,1
+2018,Missouri,Poplar Bluff,2,2
+2018,Missouri,Saint Joseph,1,2
+2018,Missouri,Saint Louis,49,109
+2018,Missouri,Saint Louis (Jennings),1,6
+2018,Missouri,Saint Louis (University City),1,1
+2018,Missouri,Saint Robert (St Robert),2,2
+2018,Missouri,Sedalia,1,1
+2018,Missouri,Springfield,5,6
+2018,Montana,Belgrade,1,1
+2018,Montana,Miles City (Moon Creek),1,1
+2018,Nebraska,Grand Island,3,1
+2018,Nebraska,Lincoln,2,5
+2018,Nebraska,Omaha,5,20
+2018,Nevada,Carson City,1,1
+2018,Nevada,Henderson,4,2
+2018,Nevada,Las Vegas,46,39
+2018,Nevada,Reno,5,10
+2018,Nevada,Sparks,1,2
+2018,New Jersey,Asbury Park,1,6
+2018,New Jersey,Atlantic City,1,4
+2018,New Jersey,Beverly,1,1
+2018,New Jersey,Camden,5,4
+2018,New Jersey,Edgewater,1,1
+2018,New Jersey,Elizabeth,1,1
+2018,New Jersey,Irvington,2,1
+2018,New Jersey,Jersey City,5,12
+2018,New Jersey,Newark,13,2
+2018,New Jersey,Paterson,1,8
+2018,New Jersey,Sicklerville,1,2
+2018,New Jersey,Toms River,1,1
+2018,New Jersey,Trenton,3,13
+2018,New Mexico,Albuquerque,19,12
+2018,New Mexico,Farmington,1,1
+2018,New Mexico,Fort Sumner,1,1
+2018,New Mexico,Isleta,1,1
+2018,New Mexico,Las Cruces,2,1
+2018,New Mexico,Los Lunas,1,1
+2018,New York,Albany,1,3
+2018,New York,Bronx,12,18
+2018,New York,Brooklyn,13,27
+2018,New York,Buffalo,3,25
+2018,New York,Corona (Queens),8,13
+2018,New York,Lindenhurst,1,1
+2018,New York,Lockport,1,1
+2018,New York,Mount Vernon,1,1
+2018,New York,New York (Manhattan),3,8
+2018,New York,Niagara Falls,1,2
+2018,New York,Rochester,2,16
+2018,New York,Staten Island,2,7
+2018,New York,Syracuse,2,11
+2018,North Carolina,Albemarle,1,1
+2018,North Carolina,Asheboro,1,2
+2018,North Carolina,Asheville,4,9
+2018,North Carolina,Burgaw,1,1
+2018,North Carolina,Charlotte,10,46
+2018,North Carolina,Concord,1,1
+2018,North Carolina,Durham,3,10
+2018,North Carolina,Fayetteville,6,11
+2018,North Carolina,Fletcher,1,1
+2018,North Carolina,Garner,1,1
+2018,North Carolina,Granite Falls,2,1
+2018,North Carolina,Greensboro,6,16
+2018,North Carolina,Greenville,3,2
+2018,North Carolina,Henderson,8,3
+2018,North Carolina,Hendersonville,1,1
+2018,North Carolina,Hickory,1,1
+2018,North Carolina,High Point,1,4
+2018,North Carolina,High Point (Archdale),2,3
+2018,North Carolina,Hollister,2,1
+2018,North Carolina,Kings Mountain,1,4
+2018,North Carolina,Lumberton,3,1
+2018,North Carolina,Maxton,3,3
+2018,North Carolina,Mooresboro,2,1
+2018,North Carolina,Raleigh,2,14
+2018,North Carolina,Red Springs,1,2
+2018,North Carolina,Reidsville,1,3
+2018,North Carolina,Roanoke Rapids,1,1
+2018,North Carolina,Salisbury,1,4
+2018,North Carolina,Sanford,1,4
+2018,North Carolina,Shannon,2,1
+2018,North Carolina,Statesville,1,8
+2018,North Carolina,Wadesboro,3,1
+2018,North Carolina,Wagram,1,1
+2018,North Carolina,Wilmington,1,14
+2018,North Carolina,Winston Salem (Winston-salem),5,9
+2018,Ohio,Akron,4,20
+2018,Ohio,Ashtabula,1,1
+2018,Ohio,Canton,2,7
+2018,Ohio,Cincinnati,15,28
+2018,Ohio,Cleveland,23,53
+2018,Ohio,Cleveland (Garfield Heights),2,5
+2018,Ohio,Columbus,23,36
+2018,Ohio,Cuyahoga Falls,1,1
+2018,Ohio,Dayton,5,26
+2018,Ohio,Fairborn,1,1
+2018,Ohio,Hamilton,3,1
+2018,Ohio,London,2,2
+2018,Ohio,Lorain,1,9
+2018,Ohio,Mansfield,2,1
+2018,Ohio,Miamisburg,1,1
+2018,Ohio,Newark,1,1
+2018,Ohio,Sandusky,1,6
+2018,Ohio,Springfield,1,6
+2018,Ohio,Steubenville,1,5
+2018,Ohio,Toledo,9,21
+2018,Ohio,Warren,1,3
+2018,Ohio,Westerville,2,2
+2018,Ohio,Youngstown,4,6
+2018,Oklahoma,Altus,1,1
+2018,Oklahoma,Bartlesville,1,3
+2018,Oklahoma,Miami,1,1
+2018,Oklahoma,Oklahoma City,10,30
+2018,Oklahoma,Oklahoma City (Del City),1,4
+2018,Oklahoma,Stillwater,1,1
+2018,Oklahoma,Tulsa,9,27
+2018,Oklahoma,Wewoka,2,1
+2018,Oregon,Cave Junction,1,1
+2018,Oregon,Eugene,1,1
+2018,Oregon,Medford,3,2
+2018,Oregon,Portland,6,17
+2018,Oregon,Salem,4,1
+2018,Oregon,Springfield,2,3
+2018,Pennsylvania,Allentown,4,6
+2018,Pennsylvania,Bensalem,1,1
+2018,Pennsylvania,Chester,2,8
+2018,Pennsylvania,Clairton,2,1
+2018,Pennsylvania,Croydon,1,1
+2018,Pennsylvania,Duquesne,2,2
+2018,Pennsylvania,Erie,3,4
+2018,Pennsylvania,Freeland,1,2
+2018,Pennsylvania,Harrisburg,4,9
+2018,Pennsylvania,Johnstown,1,2
+2018,Pennsylvania,Lancaster,2,5
+2018,Pennsylvania,Lebanon,1,4
+2018,Pennsylvania,New Castle,2,2
+2018,Pennsylvania,Norristown,2,1
+2018,Pennsylvania,Philadelphia,44,109
+2018,Pennsylvania,Pittsburgh,13,10
+2018,Pennsylvania,Pittsburgh (Wilkinsburg),1,1
+2018,Pennsylvania,Scranton,1,1
+2018,Pennsylvania,Shamokin,1,1
+2018,Pennsylvania,Stroudsburg,1,1
+2018,Pennsylvania,York,3,11
+2018,Rhode Island,Providence,4,11
+2018,South Carolina,Aiken,3,6
+2018,South Carolina,Allendale,1,1
+2018,South Carolina,Anderson,3,3
+2018,South Carolina,Charleston,5,5
+2018,South Carolina,Columbia,13,20
+2018,South Carolina,Dillon,2,3
+2018,South Carolina,Easley,1,3
+2018,South Carolina,Eastover,1,2
+2018,South Carolina,Elgin,1,1
+2018,South Carolina,Florence,2,7
+2018,South Carolina,Gaffney,5,3
+2018,South Carolina,Gaston,2,3
+2018,South Carolina,Georgetown,1,1
+2018,South Carolina,Graniteville,1,1
+2018,South Carolina,Greenville,5,10
+2018,South Carolina,Greenwood,1,1
+2018,South Carolina,Hopkins,1,2
+2018,South Carolina,Irmo,2,1
+2018,South Carolina,Lake City,2,2
+2018,South Carolina,Lancaster,2,1
+2018,South Carolina,Loris,1,3
+2018,South Carolina,Marion,1,6
+2018,South Carolina,Myrtle Beach,2,6
+2018,South Carolina,North Charleston,4,7
+2018,South Carolina,Rock Hill,2,2
+2018,South Carolina,Seabrook,1,3
+2018,South Carolina,Seneca,1,1
+2018,South Carolina,Simpsonville,1,1
+2018,South Carolina,Spartanburg,4,4
+2018,South Carolina,Sumter,2,1
+2018,South Carolina,Varnville,3,1
+2018,South Carolina,Walhalla,1,1
+2018,South Carolina,Walterboro,3,6
+2018,South Carolina,York,1,5
+2018,South Dakota,Sioux Falls,2,1
+2018,Tennessee,Antioch,6,7
+2018,Tennessee,Bolivar,1,1
+2018,Tennessee,Brownsville,1,1
+2018,Tennessee,Chattanooga,4,21
+2018,Tennessee,Clarksville,9,3
+2018,Tennessee,Delano,1,1
+2018,Tennessee,Hermitage,2,2
+2018,Tennessee,Jackson,3,10
+2018,Tennessee,Kingsport,1,1
+2018,Tennessee,Kingston,1,1
+2018,Tennessee,Knoxville,9,12
+2018,Tennessee,Madison,1,2
+2018,Tennessee,Maryville,1,1
+2018,Tennessee,Memphis,31,69
+2018,Tennessee,Murfreesboro,1,2
+2018,Tennessee,Nashville,13,45
+2018,Texas,Abilene,1,2
+2018,Texas,Amarillo,2,6
+2018,Texas,Arlington,6,4
+2018,Texas,Austin,11,16
+2018,Texas,Beaumont,1,3
+2018,Texas,Bryan,3,1
+2018,Texas,Carthage,1,1
+2018,Texas,Converse,2,4
+2018,Texas,Corpus Christi,4,7
+2018,Texas,Cypress,2,1
+2018,Texas,Dallas,29,30
+2018,Texas,Denton,1,1
+2018,Texas,El Paso,6,1
+2018,Texas,Fort Worth,15,24
+2018,Texas,Galveston,6,1
+2018,Texas,Garland,5,3
+2018,Texas,Gladewater,2,2
+2018,Texas,Grand Prairie,2,1
+2018,Texas,Houston,77,104
+2018,Texas,Irving,4,2
+2018,Texas,Killeen,3,9
+2018,Texas,Longview,1,2
+2018,Texas,Lubbock,6,5
+2018,Texas,Marshall,3,1
+2018,Texas,Midland,2,2
+2018,Texas,Odessa,2,2
+2018,Texas,Pasadena,2,2
+2018,Texas,Plano,2,3
+2018,Texas,Port Arthur,3,2
+2018,Texas,Richmond,2,2
+2018,Texas,San Antonio,31,55
+2018,Texas,San Marcos,1,3
+2018,Texas,Seguin,2,1
+2018,Texas,Spring,5,1
+2018,Texas,Temple,5,2
+2018,Texas,Texarkana,3,4
+2018,Texas,Texas City,2,1
+2018,Texas,Victoria,1,2
+2018,Texas,Waco,1,2
+2018,Texas,Wichita Falls,1,3
+2018,Texas,Zavalla,1,1
+2018,Utah,Salt Lake City (Murray),2,2
+2018,Utah,Salt Lake City (South Salt Lake),2,3
+2018,Utah,Salt Lake City (West Valley City),2,9
+2018,Utah,Sandy,1,3
+2018,Utah,Vernal,1,1
+2018,Virginia,Danville,3,5
+2018,Virginia,Fredericksburg,1,1
+2018,Virginia,Hampton,5,18
+2018,Virginia,Hopewell,3,1
+2018,Virginia,Lynchburg,2,2
+2018,Virginia,Narrows,1,1
+2018,Virginia,Newport News,5,30
+2018,Virginia,Norfolk,6,17
+2018,Virginia,Petersburg,3,4
+2018,Virginia,Portsmouth,4,25
+2018,Virginia,Richmond,13,34
+2018,Virginia,Roanoke,2,6
+2018,Virginia,Sandston,1,1
+2018,Virginia,South Boston,1,1
+2018,Virginia,Stafford,1,1
+2018,Virginia,Virginia Beach,3,7
+2018,Washington,Brewster,1,1
+2018,Washington,Buckley,2,3
+2018,Washington,Edmonds,1,1
+2018,Washington,Everett,2,3
+2018,Washington,Kent,3,4
+2018,Washington,Omak,1,1
+2018,Washington,Orting,1,1
+2018,Washington,Puyallup,2,1
+2018,Washington,Renton,1,3
+2018,Washington,Seattle,6,17
+2018,Washington,Seattle (Burien),3,2
+2018,Washington,Spokane,2,5
+2018,Washington,Sunnyside,1,2
+2018,Washington,Tacoma,7,6
+2018,Washington,Wapato,1,1
+2018,West Virginia,Charleston,3,11
+2018,West Virginia,Dingess,1,1
+2018,West Virginia,Fairmont,2,1
+2018,West Virginia,Huntington,3,7
+2018,West Virginia,Inwood,1,1
+2018,West Virginia,Morgantown,1,1
+2018,Wisconsin,Abbotsford,4,2
+2018,Wisconsin,Madison,3,10
+2018,Wisconsin,Milwaukee,22,83
+2018,Wisconsin,Racine,2,5
+2018,Wisconsin,Sparta,1,1
